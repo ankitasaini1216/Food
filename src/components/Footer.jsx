@@ -48,7 +48,7 @@ export default function Footer() {
                 </div>
                 <div className="copyright">
                     <div className="container">
-                        <p>Copyright 2019 All Right Reserved By <a href="//#region ">dsf</a></p>
+                        <p>Copyright 2019 All Right Reserved By <a href="//#region ">Vishnu</a></p>
                     </div>
                 </div>
             </footer>
