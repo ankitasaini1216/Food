@@ -15,7 +15,7 @@ export default function Header() {
                                             <a href="/">
                                                 <img src="images/logo.png" alt="#" />
                                             </a>
-
+                                            <a href="https://www.w3schools.com" className="d-none" target="_new">Visit W3Schools</a>
                                         </div>
                                     </div>
                                 </div>
