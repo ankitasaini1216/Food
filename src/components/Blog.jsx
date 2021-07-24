@@ -19,7 +19,7 @@ export default function Blog() {
                                     <img className="img-responsive" src="images/blog1.png" alt="#" />
                                 </div>
                                 <div className="full blog_blue text_align_center">
-                                    <h5 className="white_font">Post by David Mark 27/07/2019</h5>
+                                    <h5 className="white_font">Post by David Mark 27/07/2020</h5>
                                     <p>sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniadolor..</p>
                                 </div>
                             </div>
@@ -30,7 +30,7 @@ export default function Blog() {
                                     <img className="img-responsive" src="images/blog2.png" alt="#" />
                                 </div>
                                 <div className="full blog_blue text_align_center">
-                                    <h5 className="white_font">Post by David Mark 27/07/2019</h5>
+                                    <h5 className="white_font">Post by David Mark 27/07/2020</h5>
                                     <p>sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniadolor..</p>
                                 </div>
                             </div>
@@ -41,7 +41,7 @@ export default function Blog() {
                                     <img className="img-responsive" src="images/blog3.png" alt="#" />
                                 </div>
                                 <div className="full blog_blue text_align_center">
-                                    <h5 className="white_font">Post by David Mark 27/07/2019</h5>
+                                    <h5 className="white_font">Post by David Mark 27/07/2020</h5>
                                     <p>sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniadolor..</p>
                                 </div>
                             </div>
